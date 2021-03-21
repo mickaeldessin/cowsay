@@ -1,0 +1,5 @@
+const mika = {
+    "myName": "Mickael",
+    "myCampus": "Wild"
+}
+module.exports = mika; 
